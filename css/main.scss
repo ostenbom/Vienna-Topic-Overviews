@@ -2,9 +2,16 @@ $font-stack: 'Source Sans Pro', 'Arial', sans-serif;
 $primary-rgb: rgba(235, 33, 46, 1);
 $primary-hex: #EB212E;
 
+html {
+  background-color: $primary-hex;
+}
+
 html,
 body {
   width: 100%;
+}
+
+body {
   height: 100%;
 }
 
@@ -364,8 +371,59 @@ a {
   color: #fff;
 }
 
-.topic-overview h1 {
-  font-size: 80px;
+.topic-overview-text {
   position: absolute;
   right: 15px;
+  text-align: right;
+}
+
+.topic-overview-text h1 {
+  font-size: 80px;
+}
+
+.topic-overview-caption {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  color: #fff;
+  opacity: 0;
+  background: transparentize(darken($primary-rgb, 20), 0.1);;
+  -webkit-transition: all .35s;
+  -moz-transition: all .35s;
+  transition: all .35s;
+}
+
+.topic-overview-caption-content {
+  position: absolute;
+  top: 50%;
+  max-width: 500px;
+  text-align: left;
+  transform: translateY(-50%);
+  padding: 0 15px;
+}
+
+.topic-overview-caption-content p {
+  font-size: 16px;
+}
+
+.topic-overview:hover .topic-overview-caption {
+  opacity: 1;
+}
+
+.overview-header {
+  margin-top: -140px;
+  width: 100%;
+  height: 400px;
+}
+
+.overview-header-content {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  transform: translateY(-50%);
+  padding: 0 15px;
 }
