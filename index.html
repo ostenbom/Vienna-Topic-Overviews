@@ -64,16 +64,20 @@ layout: default
         <h1>Topic Overviews</h1>
       </div>
 
-      <div class="topic-overview" style="background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('img/LIBE I.jpg') no-repeat center/cover;">
-        <div class="topic-overview-text">
-          <h1>LIBE I</h1>
-          <h3>Immigration, xenophobia, logistics</h3>
-        </div>
-        <div class="topic-overview-caption">
-          <div class="topic-overview-caption-content">
-            <p>
-              Learning from our mistakes: considering Europe's history of integrating immigrants into society, which steps should Member States be taking to successfully integrate immigrants into society, both regarding logistics and tackling existing xenophobia amongst citizens?
-            </p>
+      {% for page in site.pages %}
+        {% if page.layout == 'overview' %}
+        <div class="topic-overview" style="background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('img/{{ page.image }}') no-repeat center/cover;">
+          <div class="topic-overview-text">
+            <h1>{{ page.title }}</h1>
+            <h3>{{ page.description }}</h3>
+          </div>
+          <div class="topic-overview-caption">
+            <div class="topic-overview-caption-content">
+              <p>
+                {{ page.topic }}
+              </p>
+            </div>
           </div>
         </div>
-      </div>
+        {% endif %}
+      {% endfor %}
