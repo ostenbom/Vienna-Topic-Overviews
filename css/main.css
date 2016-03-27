@@ -403,3 +403,9 @@ a {
 .overview-video {
   margin-left: auto;
   margin-right: auto; }
+
+.overview-img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width: 600px; }
