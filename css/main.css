@@ -9,7 +9,8 @@ body {
   padding-bottom: 20px; }
 
 p {
-  font-size: 15px; }
+  font-size: 15px;
+  text-align: justify; }
 
 header {
   position: relative;
@@ -376,4 +377,30 @@ a {
     top: 70%; }
 
   .overview-header-content h1 {
-    font-size: 40px; } }
+    font-size: 40px; }
+
+  .overview-committee {
+    font-size: 35px; } }
+.overview-committee {
+  font-size: 46px;
+  text-align: center; }
+
+.overview-topic {
+  text-align: justify; }
+
+.overview-author {
+  text-align: right;
+  color: #b02335; }
+
+.overview-top {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto; }
+
+.popover-content {
+  word-wrap: break-word; }
+
+.overview-video {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto; }
