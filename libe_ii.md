@@ -2,7 +2,7 @@
 layout: overview
 image: LIBE II.jpg
 title: LIBE II
-description: Immigration, xenophobia, logistics
+description: Freedom of movement within the EU
 committee: The Committee on Civil Liberties, Justice and Home Affairs II (LIBE II)
 author: Alinda Ohotski (TR)
 author_image: Alinda.jpg
