@@ -116,7 +116,10 @@ EurActive: EU warns Switzerland of consequences after anti-immigration referendu
 </div>
 
 SWI: Why Swiss suburbia voted for immigration curbs
-
+<div class="row">
+  <div class="col-sm-8 col-sm-offset-2">
 <div class="embed-responsive embed-responsive-16by9 overview-video">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3O4Ckp276MA"></iframe>
+</div>
+</div>
 </div>
