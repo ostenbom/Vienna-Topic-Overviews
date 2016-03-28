@@ -15,7 +15,7 @@ module Jekyll
       converter = site.find_converter_instance(Jekyll::Converters::Markdown)
       output = converter.convert(super(context))
       caption = converter.convert(@caption)
-      "<a href=\"#\" onclick=\"return false;\" data-toggle=\"popover\" data-placement=\"top\" data-trigger=\"focus\" data-content=\"#{@caption}\">#{super(context)}</a>"
+      "<a href=\"#\" onclick=\"return false;\" data-toggle=\"popover\" data-placement=\"top\" data-content=\"#{@caption}\">#{super(context)}</a>"
     end
   end
 end
