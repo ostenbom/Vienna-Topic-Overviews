@@ -2,7 +2,7 @@
 layout: overview
 image: TRAN.jpg
 title: TRAN
-description: From Corruption to Transparency
+description: Fostering Sustainable Tourism
 committee: Committee on Transport and Tourism (TRAN)
 author: Andong Hu (CH)
 author_image: Andong.jpg

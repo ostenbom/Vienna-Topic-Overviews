@@ -3,7 +3,9 @@
      viewBox="0 0 320 35" enable-background="new 0 0 320 35" xml:space="preserve">
         <path class="header-top-bend" d="M0,35C0,35,138.8,7.7,160,7.7S320,35,320,35V0H0V35z"/>
     </svg>
-    <img src="img/logo-white.png" class="top-logo on-top" />
+    <a href="../">
+      <img src="img/logo-white.png" class="top-logo on-top" />
+    </a>
     <a class="primary-nav-trigger on-top" href="#0">
       <span class="menu-text">Menu</span><span class="menu-icon"></span>
     </a>
@@ -12,20 +14,17 @@
 <nav>
   <ul class="primary-nav">
 
-    <li><a href="#0">Home</a></li>
+    <li><a href="../">Home</a></li>
     <li><a href="#0">The EU - An Overview</a></li>
 
     <br>
 
     <li class="label">Topics</li>
 
-    <li><a href="#0">CRIM</a></li>
-    <li><a href="#0">FEMM</a></li>
-    <li><a href="#0">ITRE</a></li>
-    <li><a href="#0">JURI I</a></li>
-    <li><a href="#0">JURI II</a></li>
-    <li><a href="#0">LIBE I</a></li>
-    <li><a href="#0">LIBE II</a></li>
-    <li><a href="#0">TRAN</a></li>
+    {% for page in site.pages %}
+      {% if page.layout == 'overview' %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+      {% endif %}
+    {% endfor %}
   </ul>
 </nav>
