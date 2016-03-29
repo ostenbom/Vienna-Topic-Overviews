@@ -9,7 +9,7 @@ author_image: Eveliina.jpg
 topic: |
   The 2015 Paris Agreement on climate change set the goal of "holding the increase in the global average temperature to well below two Degrees Celsius above pre-industrial levels". What role, if any, should nuclear power play in reaching this goal and ensuring a sustainable and reliable energy supply for Europe?
 ---
-## Explanation of the topic
+## Explanation of the Problem & Relevance of the Topic
 
 After several failed attempts to make a global climate agreement over past years, {% tooltip Read more about COP21 here: <br> <a href='http://www.cop21.gouv.fr/en/' >http://www.cop21.gouv.fr/en/</a><br><a href='http://ec.europa.eu/clima/policies/international/negotiations/paris/index_en.htm' >http://ec.europa.eu/clima/policies/international/negotiations/paris/index_en.htm</a> %} the COP21 {% endtooltip %} (Conference of Parties) meeting in Paris last year succeeded in reaching a universal agreement to restrict the increase in global average temperature.  The conference was planned carefully beforehand, and participating countries indicated a whole new kind of motivation to slow down global warming, which made the agreement possible.
 
@@ -17,9 +17,7 @@ This agreement was warmly welcomed and celebrated, but many issues are still to 
 
 This is where the question of {% tooltip Nuclear Energy Basics <a href='http://www.world-nuclear.org/nuclear-basics.aspx' >http://www.world-nuclear.org/nuclear-basics.aspx</a>  %} nuclear energy {% endtooltip %} arises. Nuclear energy causes no carbon emissions, and is highly developed. Many researches have said that it is the {% tooltip  <a href='http://www.independent.co.uk/environment/cop21-world-must-embrace-nuclear-power-to-save-planet-from-climate-change-claim-leading-scientists-a6759236.html' >http://www.independent.co.uk/environment/cop21-world-must-embrace-nuclear-power-to-save-planet-from-climate-change-claim-leading-scientists-a6759236.html</a>  %} only way we can cut our carbon emissions enough{% endtooltip %}. However, nuclear energy is also associated with many doubts and risks. The accident in Fukushima in 2011 raised concerns about the safety of nuclear energy, and also the radioactive waste and problems with its final placement are reasons why many object nuclear energy.
 
-
-
-## Key conflicts
+## Key Conflicts
 
 Nuclear energy is produced in 14 Member States and it counts for around 30 % of EU’s electricity supply. It becomes even more important when the EU is trying to cut its dependence on fossil fuels. Nuclear energy is widely researched and highly developed, and in Europe it has been proven to be safe: after the nuclear accident in Fukushima, Japan in 2011, stress tests were carried out in the EU on nuclear installations with good results.
 
@@ -31,7 +29,7 @@ A major concern about nuclear energy is the waste it causes. Some techniques of 
 
 
 
-## {% tooltip Sources: <br> <a href='https://ec.europa.eu/energy/sites/ener/files/documents/PocketBook_ENERGY_2015%20PDF%20final.pdf' >https://ec.europa.eu/energy/sites/ener/files/documents/PocketBook_ENERGY_2015%20PDF%20final.pdf</a> 	(page 39) <br> <a href='http://ec.europa.eu/eurostat/web/environmental-data-centre-on-natural-resources/natural-resources/energy-resources/fossil-fuels' >http://ec.europa.eu/eurostat/web/environmental-data-centre-on-natural-resources/natural-resources/energy-resources/fossil-fuels</a> <br> <a href='http://www.energypost.eu/exclusive-eu-paints-challenging-picture-europes-nuclear-future/' >http://www.energypost.eu/exclusive-eu-paints-challenging-picture-europes-nuclear-future/</a> %} Key facts and figures {% endtooltip %}
+## {% tooltip Sources: <br> <a href='https://ec.europa.eu/energy/sites/ener/files/documents/PocketBook_ENERGY_2015%20PDF%20final.pdf' >https://ec.europa.eu/energy/sites/ener/files/documents/PocketBook_ENERGY_2015%20PDF%20final.pdf</a> 	(page 39) <br> <a href='http://ec.europa.eu/eurostat/web/environmental-data-centre-on-natural-resources/natural-resources/energy-resources/fossil-fuels' >http://ec.europa.eu/eurostat/web/environmental-data-centre-on-natural-resources/natural-resources/energy-resources/fossil-fuels</a> <br> <a href='http://www.energypost.eu/exclusive-eu-paints-challenging-picture-europes-nuclear-future/' >http://www.energypost.eu/exclusive-eu-paints-challenging-picture-europes-nuclear-future/</a> %} Key Facts & Figures {% endtooltip %}
 
 * In 2013 nuclear energy counted for 28% of all energy supply in the EU
 
@@ -49,7 +47,7 @@ A major concern about nuclear energy is the waste it causes. Some techniques of 
 
 
 
-## {% tooltip More about the measures in place here: <br> <a href='http://ec.europa.eu/energy/en/topics/nuclear-energy' >http://ec.europa.eu/energy/en/topics/nuclear-energy</a> <br> <a href='http://www.europarl.europa.eu/atyourservice/en/displayFtu.html?ftuId=FTU_5.7.5.html' >http://www.europarl.europa.eu/atyourservice/en/displayFtu.html?ftuId=FTU_5.7.5.html</a> %} Measures in place {% endtooltip %}
+## {% tooltip More about the measures in place here: <br> <a href='http://ec.europa.eu/energy/en/topics/nuclear-energy' >http://ec.europa.eu/energy/en/topics/nuclear-energy</a> <br> <a href='http://www.europarl.europa.eu/atyourservice/en/displayFtu.html?ftuId=FTU_5.7.5.html' >http://www.europarl.europa.eu/atyourservice/en/displayFtu.html?ftuId=FTU_5.7.5.html</a> %} Measures in Place {% endtooltip %}
 
 Energy, including nuclear power, belongs to EU’s and Member States’ shared competences; neither one has an overpowering competence concerning the matter, but both can influence the legislation. Even though each country is responsible for its own stance on nuclear power, the EU has also common policies regulating nuclear energy:
 
@@ -70,7 +68,7 @@ Each EU country decides alone whether to include nuclear power in its energy mix
 
 In 2015 the Commission adopted {% tooltip More about the strategy here:<br> <a href='http://europa.eu/rapid/press-release_MEMO-15-6106_en.htm' >http://europa.eu/rapid/press-release_MEMO-15-6106_en.htm</a> %} Energy Union Framework Strategy {% endtooltip %}: the goal of the energy union is to ensure low-carbon, secure and competitive energy supply in the EU, which would mean cutting the consumption of fossil fuels and therefore carbon emissions. The union has a {% tooltip  <a href='https://ec.europa.eu/energy/en/topics/renewable-energy' >https://ec.europa.eu/energy/en/topics/renewable-energy</a> %} new renewable energy {% endtooltip %} target of at least 27% of all energy consumption by 2030. This target is part of the EU's energy and climate goals for 2030.
 
-## Key terms & actors
+## Key Terms & Key Actors
 
 -   **The EU**: The union has shared competence in energy matters. It regulates nuclear energy in and its safety.
 

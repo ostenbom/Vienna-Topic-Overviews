@@ -10,7 +10,7 @@ topic: |
   While female workforce participation as a whole is improving on many fronts, many occupations and positions tend to be largely male or female dominated. What should the EU do to balance its current workforce and inspire young Europeans to take up non traditional occupations?  
 ---
 
-## Explanation of the problem / Relevance of the topic:
+## Explanation of the Problem & Relevance of the Topic
 
 While women’s employment is constantly growing, a gender-segregated labour market is still the reality in the European Union (EU). There exists both, horizontal and vertical segregation. While women are overrepresented in care-related fields such as health, education and the service sector, men dominate sectors such as {% tooltip  Overview to gender equality in the labour market <a href='http://ec.europa.eu/justice/events/future-of-gender-equality-2015/files/gender_equality_labour_market_en.pdf'>http://ec.europa.eu/justice/events/future-of-gender-equality-2015/files/gender_equality_labour_market_en.pdf</a>
  %} construction, transport, industry and agriculture {% endtooltip %}. Furthermore, men are {% tooltip  Article: It’s time to break the glass ceiling for Europe’s women <a href='http://www.theguardian.com/commentisfree/2012/nov/19/time-break-glass-ceiling-women-europe'>http://www.theguardian.com/commentisfree/2012/nov/19/time-break-glass-ceiling-women-europe</a>
@@ -41,7 +41,7 @@ With women representing only {% tooltip European Commission (2015). Strategic En
 
 
 
-## Key facts and figures
+## Key Facts & Figures
 
 
 
@@ -59,7 +59,7 @@ With women representing only {% tooltip European Commission (2015). Strategic En
 
 
 
-## Measures In Place
+## Measures in Place
 
 The {% tooltip  Video and explanation of the European Social Fund <a href='http://ec.europa.eu/social/main.jsp?catId=325'>http://ec.europa.eu/social/main.jsp?catId=325</a> %} **European Social Fund** {% endtooltip %} is the EU’s financial instrument for supporting jobs, helping people get better jobs and ensuring fairer job opportunities for all EU citizens.
 

@@ -10,7 +10,7 @@ topic: |
   In light of the COP21 Agreement in Paris, it is understood that all industries have a part to play in reducing carbon emissions. How can a culture of “sustainable tourism” be fostered in Europe, ensuring the future conservation of the environment whilst increasing tourism trade?
 ---
 
-## Relevance of the Topic:
+## Explanation of the Problem & Relevance of the Topic
 
 With global temperatures rising well over 1°C on average, the 2015 United Nations Climate Change Conference (COP21) Paris agreement aimed to avoid this {% tooltip  COP21 Paris Agreement Elements: <a href='http://ec.europa.eu/clima/policies/international/negotiations/paris/index_en.htm'>http://ec.europa.eu/clima/policies/international/negotiations/paris/index_en.htm</a> %} dangerous change and to limit global warming to well below 2°C. {% endtooltip %} The tourism industry contributes to a significant part of the GHG emissions that directly influence this change.
 
@@ -26,7 +26,7 @@ The second hurdle the EU has to overcome to achieve sustainable tourism is **cre
 
 The third and last conflict in this issue is that of **sustainability vs. competitiveness**. By increasing the effort to achieve sustainability, eg. setting up recycling structures, paying carbon taxes for flights and reducing the seasonality of demand, tourism companies will have a loss of profit and will thus be unwilling to comply. If tourism companies increase their prices to keep up with their profit, their competitiveness will be severely harmed, this will make people less likely to travel to a particular country and thus indirectly, negatively impact countries whose main economic income is tourism, such as Greece. How can the EU work with major tourism companies to follow through the sustainability targets?
 
-## {% tooltip  Travel & Tourism Economic impact 2015 Europe (Page 1): <a href='https://www.wttc.org/-/media/files/reports/economic%20impact%20research/regional%202015/europe2015.pdf'>https://www.wttc.org/-/media/files/reports/economic%20impact%20research/regional%202015/europe2015.pdf</a> %} Key Facts and Figures {% endtooltip %}
+## {% tooltip  Travel & Tourism Economic impact 2015 Europe (Page 1): <a href='https://www.wttc.org/-/media/files/reports/economic%20impact%20research/regional%202015/europe2015.pdf'>https://www.wttc.org/-/media/files/reports/economic%20impact%20research/regional%202015/europe2015.pdf</a> %} Key Facts & Figures {% endtooltip %}
 
 * The total contribution of Travel & Tourism to GDP was USD 2’136 billion (**9.2% of GDP**) in 2014, forecasted to **rise by 2.4%** in 2015 and rise by 2.6% to USD 2’833 billion (9.8% of GDP) in 2025.
 
@@ -62,7 +62,7 @@ Last but not least, there are also other initiatives such as {% tooltip  Calypso
 
 * **encourages longer-lasting employment** in the tourism industry by making it possible to extend jobs beyond the peak season.
 
-## Key Terms & Actors
+## Key Terms & Key Actors
 
 * The **European Commission:** executive branch of the EU, sets central environmental targets, launches initiatives on a European level and strategises the means needed to reach the set goals. The European Commission however does **not** have exclusive competence in the area of travel and tourism, but {% tooltip  Supportive competence means no directives, regulations or decisions can be made by the EU, but recommendations are always possible. %} rather a supportive {% endtooltip %} one.
 

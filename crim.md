@@ -10,7 +10,7 @@ topic: |
   Illegal drug trade in the EU is estimated to be worth as high as 100 billion dollars. Following the adoption of the 2013-2020 EU Drugs Strategy, what additional measures should European Institutions take to help Member States in the fight against illegal drug markets run by organised crime groups?
 ---
 
-## Explanation & Relevance of the Topic:
+## Explanation of the Problem & Relevance of the Topic
 
 **Sizeable markets** for cannabis, heroin and amphetamines have existed in many European countries since the 1970s and 1980s. Over time, other substances also established themselves — including MDMA (Ecstasy) in the 1990s and cocaine in the 2000s. The market continues to **evolve**, with the last decade witnessing the emergence of a wide range of **new psychoactive substances**. The nature of the illicit drug market has also been changing as a result of **globalisation**, **technology** and **the internet**. Additional challenges are presented by **innovations in drug production and trafficking methods** and the establishment of {% tooltip  Source: <a href='http://www.emcdda.europa.eu/publications/edr/trends-developments/2015/online/chapter1'>http://www.emcdda.europa.eu/publications/edr/trends-developments/2015/online/chapter1</a>  %} new trafficking routes. {% endtooltip %} The EU governments face new problems with newly developed substances. First they have to be detected, then traced down the source, see what it is made of and what its effects are and how they are distrubuted and then they have to be integrated into the current drug policy. **Distribution** via the internet is becoming increasingly common, with 693 online shops detected in 2012. These alternate means of communication have made the {% tooltip  Source:European Drug Report 2013   <a href='http://www.talkingdrugs.org/european-drug-2013-facts-and-figures'>http://www.talkingdrugs.org/european-drug-2013-facts-and-figures</a>  %} drug market harder to control.  {% endtooltip %}
 
@@ -19,7 +19,7 @@ In a third of the European countries, a focus has been put on **harm reduction**
 Video Barcelona (medically supervised consumption rooms):
 <a href='https://www.youtube.com/watch?v=YhLoLbORzi0'>https://www.youtube.com/watch?v=YhLoLbORzi0</a> %} medically supervised consumption rooms {% endtooltip %}, in which addicted people can use their drugs in a clean environment. They are provided with the necessary material (e.g. needles) and medical attention in case of overdose. This is a crucial measure to prevent the spread of diseases like HIV or Hepatitis B and C, and public drug scenes.
 
-## Key Conflicts:
+## Key Conflicts
 
 Addicts **criminalise** themselves constantly through the possession and usage of illegal substances. According to the law, they should clearly be prosecuted, however, according to the {% tooltip  WHO: World Health Organisation (as a tooltip) %} WHO {% endtooltip %} an addiction is defined as an {% tooltip  <a href='http://www.who.int/substance_abuse/terminology/definition1/en/'>http://www.who.int/substance_abuse/terminology/definition1/en/</a>  %} illness {% endtooltip %} and therefore has to be treated. These two very different approaches are commonly labelled as the {% tooltip  For further reading: <a href='http://www.drugpolicy.org/new-solutions-drug-policy/brief-history-drug-war'>http://www.drugpolicy.org/new-solutions-drug-policy/brief-history-drug-war</a>  %} **war on drugs** {% endtooltip %}, where everyone who deals, consumes or possesses drugs is punished or even incarcerated, and **harm reduction**, where addicts are instead treated to reduce the demand for drugs. The USA has waged a war on drugs since the 1970s and usually in Europe drug policies are a combination of the two. Please watch this video on the War on Drugs and harm reduction here:
 
@@ -48,7 +48,7 @@ To fully understand the term decriminalisation and also other options, watch thi
 </div>
 <br>
 
-## Facts & Figures:
+## Key Facts & Figures
 
 * 1990 the first European plan was drafted to combat drugs
 
@@ -60,7 +60,7 @@ To fully understand the term decriminalisation and also other options, watch thi
 
 * This link gives you an impression on where and how many people use drugs in the EU: [http://www.emcdda.europa.eu/countries/prevalence-maps](http://www.emcdda.europa.eu/countries/prevalence-maps)
 
-## Measures already in place:
+## Measures in place
 
 The **Justice and Home Affairs Council of the European Union** endorsed an **EU Drugs Strategy** from 2013-2020 and it’s first **Action Plan** 2013-16). It includes 16 objectives and over 50 actions. It is crucial to have a look at the following measures, in order to understand what you can build on. Have a look {% tooltip  <a href='http://www.emcdda.europa.eu/attachements.cfm/att_215054_EN_ST12809.EN13.PDF'>http://www.emcdda.europa.eu/attachements.cfm/att_215054_EN_ST12809.EN13.PDF</a> Action Plan 2013-16 %} here {% endtooltip %} or {% tooltip  Concise summary of European Drug Report 2013:
 <a href='http://www.talkingdrugs.org/european-drug-2013-facts-and-figures'>http://www.talkingdrugs.org/european-drug-2013-facts-and-figures</a> %} here {% endtooltip %}.
@@ -85,7 +85,7 @@ The **Justice and Home Affairs Council of the European Union** endorsed an **EU 
 
 Also look at the following graph to see, how drug treatments are financed and look into {% tooltip  <a href='http://www.emcdda.europa.eu/system/files/publications/648/TDSI11001ENC_314423.pdf'>http://www.emcdda.europa.eu/system/files/publications/648/TDSI11001ENC_314423.pdf</a>  %} this {% endtooltip %} document.
 
-## Key actors:
+## Key Terms & Key Actors
 
 The **European Monitoring Centre for Drugs and Drug Addiction** (EMCDDA) was set up to provide factual, objective, reliable and comparable information concerning drugs, drug addiction and their consequences. They organise a lot of activities like conferences, events of all kinds and prevention in schools.
 

@@ -10,7 +10,7 @@ topic: |
   Free movement or annual quotas? Following the results from the Swiss electorate to place restrictions on the free entry of EU workers, what should the stance of the EU be towards Member States and associated states with restrictive immigration policies towards EU citizens?
 ---
 
-## Explanation of the Problem
+## Explanation of the Problem & Relevance of the Topic
 
 Even though Switzerland is not a Member State of the EU, the **bilateral agreements** between the two have created strong ties to be acknowledged. One of these agreements concerns the {% tooltip  Explanation of Free Movement of Persons in the EU:
  <a href='https://www.opensocietyfoundations.org/explainers/what-eu-freedom-movement' >https://www.opensocietyfoundations.org/explainers/what-eu-freedom-movement</a> %} free movement of persons {% endtooltip %}: Switzerland has signed the {% tooltip  Free Movement Agreement between the EU and Switzerland: <a href='http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:22002A0430(01):EN:HTML' >http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:22002A0430(01):EN:HTML</a> %}  **Agreement on Free Movement of Persons** (AFMP) {% endtooltip %} in 1999, and it came into force in 2002. This agreement confers upon the citizens of Switzerland and of the Member States the right to freely choose their place of employment and residence within their mutual territories.
@@ -34,7 +34,7 @@ Within the EU framework, the Treaties safeguard {% tooltip  The EU’s existent 
 On Free Movement of Persons in EU and how it’s changing/how it can be controlled:
 <a href='http://www.robert-schuman.eu/en/european-issues/0312-the-free-movement-of-people-in-the-european-union-principle-stakes-and-challenges' >http://www.robert-schuman.eu/en/european-issues/0312-the-free-movement-of-people-in-the-european-union-principle-stakes-and-challenges</a> %} citizens of these countries and the EU worker migrants. {% endtooltip %}
 
-## Key Facts and Figures
+## Key Facts & Figures
 
 * {% tooltip Immigration to Switzerland Demographics <a href='https://en.wikipedia.org/wiki/Immigration_to_Switzerland#Demographics' >https://en.wikipedia.org/wiki/Immigration_to_Switzerland#Demographics</a> %} 23.8% of the population permanently residing in Switzerland has a migrant background. {% endtooltip %}
 
@@ -50,7 +50,7 @@ On Free Movement of Persons in EU and how it’s changing/how it can be controll
 
 * {% tooltip <a href='http://www.oecd.org/migration/OECD%20Migration%20Policy%20Debates%20Numero%202.pdf' >http://www.oecd.org/migration/OECD%20Migration%20Policy%20Debates%20Numero%202.pdf</a> %} In Switzerland, immigrants provide an estimated net benefit of about 2% of GDP to the government budget. {% endtooltip %}
 
-## Measures already in place
+## Measures In Place
 
 After the "**Against mass immigration**" referendum in 2014, the first order of business of the Swiss government has been the amendment of the Swiss federal constitution. Article 121a has been put in place which aims at Switzerland autonomously regulating its immigration policy. It entails {% tooltip  Swiss Policy on Europe presentation on EU-CH relations with a special focus on the amendments on free movement of persons
 <a href='https://www.eda.admin.ch/dam/dea/en/documents/folien/Folien-Europapolitik_en.pdf' >https://www.eda.admin.ch/dam/dea/en/documents/folien/Folien-Europapolitik_en.pdf</a> %} annual quantitative limits and quotas on EU migrants as well as prioritizing of some nationalities over others. {% endtooltip %} As a result, the Swiss government wants to re-negotiate the agreement. However, the {% tooltip  New constitutional provisions introduced by Switzerland to limit free movement and EU’s response letter to proposals:

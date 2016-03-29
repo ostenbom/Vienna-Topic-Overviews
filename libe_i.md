@@ -10,7 +10,7 @@ topic: |
   Learning from our mistakes: considering Europe’s history of integrating immigrants into society, which steps should Member States be taking to successfully integrate immigrants into society, both regarding logistics and tackling existing xenophobia amongst citizens?
 ---
 
-## Explanation of the problem / Relevance of the topic:
+## Explanation of the Problem & Relevance of the Topic
 
 Mass immigration in Europe is a relatively new trend, with population of foreign born citizens in Spain and Germany increasing from {% tooltip  Christian Dustmann and Tommaso Frattin (2012). NORFACE MIGRATION Discussion Paper No. 2012-01. <a href='http://www.norface-migration.org/publ_uploads/NDP_01_12.pdf'>http://www.norface-migration.org/publ_uploads/NDP_01_12.pdf</a> <br> In this paper, you can read more about the history of immigration in Europe as well as the current living conditions of immigrants in different countries. %} 1% to 14.5% and 13% respectively in just 45 years time{% endtooltip %}. All throughout Europe, immigrants are faced with various problems reaching from economic challenges to social disintegration and xenophobia. The devastating results of failed integration are evident in society, such as higher unemployment rates among immigrant populations in the EU ({% tooltip  OECD (2016), Foreign-born unemployment (indicator). doi: 10.1787/ba5d2ce0-en (Accessed on 02 March 2016) <a href='https://data.oecd.org/migration/foreign-born-unemployment.htm'>https://data.oecd.org/migration/foreign-born-unemployment.htm</a> This is a short overview of statistics on unemployment and migration. %} 14,8% {% endtooltip %} compared to {% tooltip  Eurostat. Unemployment statistics (2016) <a href='http://ec.europa.eu/eurostat/statistics-explained/index.php/Unemployment_statistics'>http://ec.europa.eu/eurostat/statistics-explained/index.php/Unemployment_statistics</a> %} 9,6% {% endtooltip %} overall unemployment) and disadvantages to natives due to language constraints. This, as a consequence, leads to their children not being able to follow the school curricula, which then closes the vicious circle of {% tooltip  OECD (2009), Children of Immigrants in the Labour Markets of EU and OECD Countries: An Overview. <a href='http://www.oecd.org/berlin/43880918.pdf'>http://www.oecd.org/berlin/43880918.pdf</a>  %} having trouble finding work in the future. {% endtooltip %}
 
@@ -19,7 +19,7 @@ Switzerland is no exception in trying to find ways of how to integrate immigrant
 
 When tackling the topic of immigration, it is important to understand the difference between legal and illegal immigration. Legal immigration can be very useful for a country, seeing that foreigners often bring knowledge and skills not present in the country and relieve the problem of an aging society. In addition, immigrants who earn money in the country in question also pay taxes, thus creating an additional income for the country. While legal immigration has its advantages, illegal immigration can often involve criminals - which in return creates various legal problems, jeopardises a country’s security and affects the economy.
 
-## Key conﬂicts
+## Key Conflicts
 
 One of the main problems faced by immigrants is **difficulty learning the local language**, which creates a barrier between them and the local population and thus creates barriers from mixing up and fully integrating into the society they live in. On the other hand, **locals are not always enthusiastic** in welcoming and integrating strangers into their everyday life, lead by **xenophobia** and the fear of changing their **ways of living**. Locals often do not realize the benefits of integrating foreigners into the society and often consider them as an extra cost. This fear and lack of understanding is one of the factors leading to the increased popularity of right-wing parties, with the latter promoting nationalism and the importance of traditions.
 
@@ -31,7 +31,7 @@ Additionally, it is often unclear who should **carry the responsibility** of int
 
 Even though various national policies have been adopted in the recent years, {% tooltip  Council of the European Union (2009). The Stockholm Programme – An open and secure Europe serving and protecting the citizens. <a href='http://register.consilium.europa.eu/doc/srv?l=EN&f=ST%2017024%202009%20INIT'>http://register.consilium.europa.eu/doc/srv?l=EN&f=ST%2017024%202009%20INIT</a> %} they have been proven to be insufficient{% endtooltip %}. Europe is **in need of a generalised policy** and clear guidelines on how to treat immigrants. On the other hand, attempts of creating such a policy have been found to be quite difficult, due to the different reasons for immigration.
 
-## Key facts and ﬁgures
+## Key Facts & Figures
 
 * {% tooltip OECD (2016), Foreign-born unemployment (indicator). doi: 10.1787/ba5d2ce0-en (Accessed on 02 March 2016).  <a href='https://data.oecd.org/migration/foreign-born-unemployment.htm'>https://data.oecd.org/migration/foreign-born-unemployment.htm</a> %} Unemployment rates amongst immigrants in the EU: 15,8% {% endtooltip %}
 
@@ -51,7 +51,7 @@ Even though various national policies have been adopted in the recent years, {% 
 <br>
 Evolution of unemployment rates of the population (aged 20–64) by broad groups of country of citizenship, EU-28, 2007. Source: {% tooltip <a href='http://ec.europa.eu/eurostat/statistics-explained/index.php/Migrant_integration_statistics_-_employment'> http://ec.europa.eu/eurostat/statistics-explained/index.php/Migrant_integration_statistics_-_employment</a> %}Eurostat{% endtooltip %}
 
-## Measures in place
+## Measures In place
 
 * **European integration fund**: This fund, which was mainly focusing on newly arrived immigrants, disposed over a budget of EUR 825 million for the period 2007-2013.
 
