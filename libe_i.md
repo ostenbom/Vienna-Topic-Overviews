@@ -96,12 +96,6 @@ International Labour Organization: The Labour Market Integration of New Immigran
 
 A project aiming to find out how well immigrants are integrated in the labour market.
 
-Migrant immigration statistics - employment:
-
-[http://ec.europa.eu/eurostat/statistics-explained/index.php/Migrant_integration_statistics_-_employment](http://ec.europa.eu/eurostat/statistics-explained/index.php/Migrant_integration_statistics_-_employment)
-
-Here you can learn more about the employment rates of immigrants in various EU-countries.
-
 [http://www.oecd.org/els/mig/Indicators-of-Immigrant-Integration-2015.pdf](http://www.oecd.org/els/mig/Indicators-of-Immigrant-Integration-2015.pdf)
 
 This publication contains a large overview on the outcomes of immigrants and their children across all EU and OECD countries.

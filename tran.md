@@ -3,7 +3,7 @@ layout: overview
 image: TRAN.jpg
 title: TRAN
 description: Fostering Sustainable Tourism
-committee: Committee on Transport and Tourism (TRAN)
+committee: The Committee on Transport and Tourism (TRAN)
 author: Andong Hu (CH)
 author_image: Andong.jpg
 topic: |

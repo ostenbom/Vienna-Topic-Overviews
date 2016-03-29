@@ -3,7 +3,7 @@ layout: overview
 image: JURI-II.jpg
 title: JURI II
 description: From Corruption to Transparency
-committee: The Committee On Legal Affairs II (LIBE II)
+committee: The Committee On Legal Affairs II (JURI II)
 author: Orestis Collins (CY)
 author_image: Orestis.jpg
 topic: |

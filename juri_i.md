@@ -3,7 +3,7 @@ layout: overview
 image: JURI-I.jpg
 title: JURI I
 description: International vs Domestic Law
-committee: The Committee On Legal Affairs I (LIBE I)
+committee: The Committee On Legal Affairs I (JURI I)
 author: Sam Van Hoof (BE)
 author_image: Sam.jpg
 topic: |

@@ -3,7 +3,7 @@ layout: overview
 image: CRIM.jpg
 title: CRIM
 description: Fighting illegal drugs and organised crime
-committee: Committee on Specialised Crime, Corruption & Money Laundering (CRIM)
+committee: The Committee on Specialised Crime, Corruption & Money Laundering (CRIM)
 author: Gioia Bomatter (CH)
 author_image: Gioia.jpg
 topic: |
