@@ -1,6 +1,6 @@
 ---
 layout: overview
-image: LIBE I.jpg
+image: LIBE-I.jpg
 title: LIBE I
 description: Xenophobia, Immigration, Logistics
 committee: The Committee on Civil Liberties, Justice and Home Affairs I (LIBE I)

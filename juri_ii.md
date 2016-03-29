@@ -1,6 +1,6 @@
 ---
 layout: overview
-image: JURI II.jpg
+image: JURI-II.jpg
 title: JURI II
 description: From Corruption to Transparency
 committee: The Committee On Legal Affairs II (LIBE II)

@@ -1,6 +1,6 @@
 ---
 layout: overview
-image: LIBE II.jpg
+image: LIBE-II.jpg
 title: LIBE II
 description: Freedom of movement within the EU
 committee: The Committee on Civil Liberties, Justice and Home Affairs II (LIBE II)

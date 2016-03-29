@@ -1,6 +1,6 @@
 ---
 layout: overview
-image: JURI I.jpg
+image: JURI-I.jpg
 title: JURI I
 description: International vs Domestic Law
 committee: The Committee On Legal Affairs I (LIBE I)
