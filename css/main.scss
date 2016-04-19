@@ -1,6 +1,6 @@
 $font-stack: 'Source Sans Pro', 'Arial', sans-serif;
-$primary-rgb: rgba(235, 33, 46, 1);
-$primary-hex: #EB212E;
+$primary-rgb: rgba(44, 73, 153, 1);
+$primary-hex: #2c4999;
 
 html,
 body {
@@ -461,7 +461,7 @@ a {
 
 .overview-author {
   text-align: right;
-  color: #b02335;
+  color: darken($primary-rgb, 20);
 }
 
 .overview-top {

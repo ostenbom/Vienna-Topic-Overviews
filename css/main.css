@@ -40,13 +40,13 @@ header .on-top {
   header {
     margin-top: -60px; } }
 a {
-  color: #eb212e;
+  color: #2c4999;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s; }
 
 .header-top-bend {
-  fill: #EB212E; }
+  fill: #2c4999; }
 
 .primary-nav-trigger {
   position: absolute;
@@ -156,7 +156,7 @@ a {
   top: 0;
   height: 100%;
   width: 100%;
-  background: rgba(152, 14, 23, 0.9);
+  background: rgba(21, 35, 74, 0.9);
   z-index: 3;
   text-align: center;
   padding: 50px 0;
@@ -286,7 +286,7 @@ a {
   text-align: center;
   color: #fff;
   opacity: 0;
-  background: rgba(152, 14, 23, 0.9);
+  background: rgba(21, 35, 74, 0.9);
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s; }
@@ -333,7 +333,7 @@ a {
   text-align: center;
   color: #fff;
   opacity: 0;
-  background: rgba(152, 14, 23, 0.9);
+  background: rgba(21, 35, 74, 0.9);
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s; }
@@ -396,7 +396,7 @@ a {
     font-size: 25px; } }
 .overview-author {
   text-align: right;
-  color: #b02335; }
+  color: #15234a; }
 
 .overview-top {
   max-width: 900px;

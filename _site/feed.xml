@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Apr 2016 17:41:49 +0200</pubDate>
-    <lastBuildDate>Fri, 01 Apr 2016 17:41:49 +0200</lastBuildDate>
+    <title>IF Vienna 2016 Academic Preparation Kit</title>
+    <description>EYP Austria&#39;s International Forum in Vienna&#39;s Academic Preparation Kit.</description>
+    <link>http://vienna16.eyp.at//</link>
+    <atom:link href="http://vienna16.eyp.at//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 19 Apr 2016 17:19:18 +0200</pubDate>
+    <lastBuildDate>Tue, 19 Apr 2016 17:19:18 +0200</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -28,8 +27,8 @@
 
 </description>
         <pubDate>Thu, 17 Mar 2016 22:00:24 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/03/17/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/03/17/welcome-to-jekyll.html</guid>
+        <link>http://vienna16.eyp.at//jekyll/update/2016/03/17/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://vienna16.eyp.at//jekyll/update/2016/03/17/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

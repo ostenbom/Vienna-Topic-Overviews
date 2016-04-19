@@ -1,4 +1,4 @@
-# Lausanne-Topic-Overviews
-A website for displaying the Topic Overviews of the Regional Session of the European Youth Parliament Switzerland in Lausanne 2016.
+# Vienna Topic Overviews
+A website for displaying the Academic Preparation Kit of EYP Austria's International Forum in Vienna 2016.
 
 Made using bootstrap as the css boilerplate, and served using jekyll.
