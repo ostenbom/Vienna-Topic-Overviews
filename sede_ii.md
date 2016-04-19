@@ -1,13 +1,13 @@
 ---
 layout: overview
-image: AFET_I.jpg
-title: AFET I
+image: SEDE_II.jpg
+title: SEDE II
 description: Post conflict transformations in Balkan countries
-committee: The Committee on Foreign Affairs (AFET I)
-author: Valeriya Boyko (UA)
-author_image: Valerie.jpg
+committee: The Committee on Security and Defence II (SEDE II)
+author: Nicklas Kövamees (SE)
+author_image: Nicklas.jpg
 topic: |
-  What further steps should be taken in order to help facilitate post conflict transformation processes in Balkan countries?
+  With the nature of military capabilities required to deal with modern security threats changing rapidly and defence spending across Europe facing significant budgetary constraints, to which extent should European and international military cooperation and/or integration be considered?
 ---
 
 ## Relevance and Explanation of the Issue
