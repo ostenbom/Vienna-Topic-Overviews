@@ -10,7 +10,6 @@ body {
 
 p {
   font-size: 18px;
-  text-align: justify;
   line-height: 1.6em; }
 
 header {
@@ -376,7 +375,7 @@ a {
   text-align: center; }
 
 .overview-topic {
-  text-align: justify; }
+  text-align: center; }
 
 @media (max-width: 768px) {
   .overview-header {
