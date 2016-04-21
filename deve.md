@@ -12,7 +12,7 @@ topic: |
 
 ## Relevance and Explanation of the Issue
 
-The notion of [good governance](http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/MENAEXT/EXTMNAREGTOPGOVERNANCE/0,,contentMDK:20513159~pagePK:34004173~piPK:34003707~theSitePK:497024,00.html) was adopted by the World Bank in the late 1990’s to establish the link between the quality of a country’s governance system and its ability to promote sustainable economic and social development. Good governance is exactly the way that a government should function. According to the **World Bank**, the core elements of a good governance are: **public sector management**, **accountability**, **a legal framework for development** and **transparency and information**. Indeed, transparency and openness are key elements of good governance and set barriers to corruption. In his essay *Perpetual Peace*, Immanuel Kant noted that publicity was a moral requirement for public authorities and stated: "all actions relating to the rights of other men are wrong, if the maxims from which they follow are inconsistent with publicity". He also maintained that as well as being a moral principle, it was also a legal one perceiving transparency as a legal rule.
+The notion of {% tooltip ‘Good’ governance is the accountable, transparent, efficient, responsive and inclusive organisation of the public sector and the setup of public policies. <a href='http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/MENAEXT/EXTMNAREGTOPGOVERNANCE/0,,contentMDK:20513159~pagePK:34004173~piPK:34003707~theSitePK:497024,00.html'>http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/MENAEXT/EXTMNAREGTOPGOVERNANCE/0,,contentMDK:20513159~pagePK:34004173~piPK:34003707~theSitePK:497024,00.html</a> %}good governance{% endtooltip %} was adopted by the World Bank in the late 1990’s to establish the link between the quality of a country’s governance system and its ability to promote sustainable economic and social development. Good governance is exactly the way that a government should function. According to the **World Bank**, the core elements of a good governance are: **{% tooltip The government and its agencies (police, military, transit authorities, educational and health care system) that all are subject to public policies and are set for people’s well-being. %}public sector{% endtooltip %} management**, {% tooltip The specific behaviour and attitude of an individual or an organisation being responsible for its acts, trustworthy and executing their powers properly. %}**accountability**{% endtooltip %}, **a legal framework for development** and **transparency and information**. Indeed, transparency and openness are key elements of good governance and set barriers to corruption. In his essay *Perpetual Peace*, Immanuel Kant noted that publicity was a moral requirement for public authorities and stated: "all actions relating to the rights of other men are wrong, if the maxims from which they follow are inconsistent with publicity". He also maintained that as well as being a moral principle, it was also a legal one perceiving transparency as a legal rule.
 
 Consequently, seeing this matter not only from the economic field but rather with a systematic approach, a government should be fair, treat all the citizens equally and respect democratic procedures. In other words, it is the way how a government should organise itself and its public policies. Moreover, this goes hand in hand with the fight against corruption, a great malfunction in the social, political and economic life of a state.
 
@@ -20,17 +20,17 @@ The nature and extent of corruption vary. **Corruption**, nevertheless, inflicts
 
 ## Key Questions
 
-Which principles should be followed to fight corruption?
+* Which principles should be followed to fight corruption?
 
-How can the EU harmonise the implementation of anti-corruption measures within all the Member States?
+* How can the EU harmonise the implementation of anti-corruption measures within all the Member States?
 
-What kind of achievements are needed so that corruption could be tackled at regional, national and international level?
+* What kind of achievements are needed so that corruption could be tackled at regional, national and international level?
 
-How can transparency and openness be ensured in the public sector?
+* How can transparency and openness be ensured in the public sector?
 
-How good governance can be strengthened and development be fostered at National and European level?
+* How good governance can be strengthened and development be fostered at National and European level?
 
-What measure should be taken to prevent corruption? What kind of sanctions should be imposed?
+* What measure should be taken to prevent corruption? What kind of sanctions should be imposed?
 
 
 ## Key Facts & Figures
@@ -43,7 +43,7 @@ Public opinion plays an important role in identifying how much of an everyday an
 
 * **In the EU, three quarters of respondents (76 %) think that corruption is widespread in their own country.** This belief is widespread especially in countries such as Greece, Italy Lithuania, Spain and the Czech Republic .
 
-* **Around three quarters of Europeans (73 %) say that bribery and the use of connections is often the easiest way of obtaining certain public services in their country.**
+* **Around three quarters of Europeans (73 %) say that {% tooltip The offering or the accepting of a specific favour or promise which works as an  inducement for an action which is illegal or unethical. %}bribery{% endtooltip %} and the use of connections is often the easiest way of obtaining certain public services in their country.**
 
 * **Two in three Europeans (67 %) think the financing of political parties is not sufficiently transparent and supervised.** Most likely to hold that view are respondents from Spain, Greece  and the Czech Republic
 
@@ -74,9 +74,13 @@ With the 2012 [OSCE Declaration on Strengthening Good Governance and Combating C
 
 ## Key Conflicts
 
-**Differences on national level**: The implementation of the anti-corruption legal framework remains uneven among EU Member States. This situation creates two issues as not all States have transposed European legislation into their national laws and they have not taken the necessary measures to practically implement these policies and action plans.
+### Differences on national level
 
-**Complexity in dealing with this phenomenon**: Exactly because it is widespread and can be seen in various sectors of economy, public or private life, corruption takes many different forms: bribery, judicial, political corruption, fraud, in the labour market, in the educational system. As a result there can be no one-sided approach to deal with this issue, but strengthened control on national levels.
+The implementation of the anti-corruption legal framework remains uneven among EU Member States. This situation creates two issues as not all States have transposed European legislation into their national laws and they have not taken the necessary measures to practically implement these policies and action plans.
+
+### Complexity in dealing with this phenomenon
+
+Exactly because it is widespread and can be seen in various sectors of economy, public or private life, corruption takes many different forms: bribery, judicial, political corruption, fraud, in the labour market, in the educational system. As a result there can be no one-sided approach to deal with this issue, but strengthened control on national levels.
 
 According to [Transparency International’s](http://www.transparency.org/gcb2013) 2013 Global Corruption Barometer, the **public sector** is especially prone to corruption and fraud. **The police and the judiciary** came out as the two most prone to bribery, with 31%  of people who came into contact with the police and 24% of people interacting with the judiciary reporting having paid a bribe. Also, almost two out of three people believe that personal contacts and relationships are the most influential in the public sector in their country, while there is a lack of trust towards the financing of political parties.
 
@@ -109,35 +113,25 @@ The EU Anti-Corruption Report is a new mechanism, implemented in 2013 and publis
 
 ## Links for Further Research
 
-**Muhammadu Buhari. Nigeria committed to good governance and fighting terror (2015). The Washington Post**
+* Muhammadu Buhari. Nigeria committed to good governance and fighting terror (2015). The Washington Post [https://www.euractiv.com/section/eu-priorities-2020/linksdossier/good-governance-and-corruption/#ea-accordion-further-reading](https://www.euractiv.com/section/eu-priorities-2020/linksdossier/good-governance-and-corruption/#ea-accordion-further-reading)
 
-[https://www.euractiv.com/section/eu-priorities-2020/linksdossier/good-governance-and-corruption/#ea-accordion-further-reading](https://www.euractiv.com/section/eu-priorities-2020/linksdossier/good-governance-and-corruption/#ea-accordion-further-reading)
+* EurActiv. Good Governance and Corruption. Legal Background [https://www.washingtonpost.com/opinions/nigeria-committed-to-good-governance-and-fighting-terror/2015/07/20/8c1acd00-2e21-11e5-8353-1215475949f4_story.html](https://www.washingtonpost.com/opinions/nigeria-committed-to-good-governance-and-fighting-terror/2015/07/20/8c1acd00-2e21-11e5-8353-1215475949f4_story.html)
 
-**EurActiv. Good Governance and Corruption. Legal Background**
+* Transparency International. Corruption per Country/Territory:[ https://www.transparency.org/country/](https://www.transparency.org/country/)
 
-[https://www.washingtonpost.com/opinions/nigeria-committed-to-good-governance-and-fighting-terror/2015/07/20/8c1acd00-2e21-11e5-8353-1215475949f4_story.html](https://www.washingtonpost.com/opinions/nigeria-committed-to-good-governance-and-fighting-terror/2015/07/20/8c1acd00-2e21-11e5-8353-1215475949f4_story.html)
+* Transparency International. Anti-Corruption Glossary:[ https://www.transparency.org/glossary/](https://www.transparency.org/glossary/)
 
-**Transparency International. Corruption per Country/Territory**:[ https://www.transparency.org/country/](https://www.transparency.org/country/)
+* Transparency International: [https://www.transparency.org/whatwedo/activity/strengthening_enforcement_of_the_oecd_anti_bribery_convention](https://www.transparency.org/whatwedo/activity/strengthening_enforcement_of_the_oecd_anti_bribery_convention) and [https://www.transparency.org/whatwedo/activity/european_neighbourhood_south_region_nis](https://www.transparency.org/whatwedo/activity/european_neighbourhood_south_region_nis)
 
-**Transparency International. Anti-Corruption Glossary**:[ https://www.transparency.org/glossary/](https://www.transparency.org/glossary/)
+* Transparency International. Fighting corruption, demanding justice: Impact Report (2015):[ http://files.transparency.org/content/download/1926/12715/file/2015_ImpactReport_EN.pdf](http://files.transparency.org/content/download/1926/12715/file/2015_ImpactReport_EN.pdf)
 
-**Transparency International**:
+* Documents, publications and tools. United Nations Office on Drugs and Crime: [https://www.unodc.org/unodc/en/corruption/publications.html](https://www.unodc.org/unodc/en/corruption/publications.html)
 
-[https://www.transparency.org/whatwedo/activity/strengthening_enforcement_of_the_oecd_anti_bribery_convention](https://www.transparency.org/whatwedo/activity/strengthening_enforcement_of_the_oecd_anti_bribery_convention)
+* World Bank. Corruption and Economic Development.: [http://bit.ly/1tvVSbv](http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/MENAEXT/EXTMNAREGTOPGOVERNANCE/0,,contentMDK:20513159~pagePK:34004173~piPK:34003707~theSitePK:497024,00.html)
 
-[https://www.transparency.org/whatwedo/activity/european_neighbourhood_south_region_nis](https://www.transparency.org/whatwedo/activity/european_neighbourhood_south_region_nis)
+* World Bank. Good Governance & Development, the example of Kuwait: [http://blogs.worldbank.org/arabvoices/kuwait-transparency-corruption-political-instability-obstacles-development](http://blogs.worldbank.org/arabvoices/kuwait-transparency-corruption-political-instability-obstacles-development)
 
-**Transparency International. Fighting corruption, demanding justice: Impact Report (2015)**:[ http://files.transparency.org/content/download/1926/12715/file/2015_ImpactReport_EN.pdf](http://files.transparency.org/content/download/1926/12715/file/2015_ImpactReport_EN.pdf)
-
-**Documents, publications and tools. United Nations Office on Drugs and Crime**:
-
-[https://www.unodc.org/unodc/en/corruption/publications.html](https://www.unodc.org/unodc/en/corruption/publications.html)
-
-**World Bank. Corruption and Economic Development.**: [http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/MENAEXT/EXTMNAREGTOPGOVERNANCE/0,,contentMDK:20513159~pagePK:34004173~piPK:34003707~theSitePK:497024,00.html](http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/MENAEXT/EXTMNAREGTOPGOVERNANCE/0,,contentMDK:20513159~pagePK:34004173~piPK:34003707~theSitePK:497024,00.html)
-
-**World Bank. Good Governance & Development, the example of Kuwait**: [http://blogs.worldbank.org/arabvoices/kuwait-transparency-corruption-political-instability-obstacles-development](http://blogs.worldbank.org/arabvoices/kuwait-transparency-corruption-political-instability-obstacles-development)
-
-**Madaleine Weber. Q&A on Good Governance and Development. 2015. World Resources Institute**: [http://www.wri.org/blog/2015/02/qa-mark-robinson-role-good-governance-sustainable-development](http://www.wri.org/blog/2015/02/qa-mark-robinson-role-good-governance-sustainable-development)
+* Madaleine Weber. Q&A on Good Governance and Development. 2015. World Resources Institute: [http://www.wri.org/blog/2015/02/qa-mark-robinson-role-good-governance-sustainable-development](http://www.wri.org/blog/2015/02/qa-mark-robinson-role-good-governance-sustainable-development)
 
 <br>
 <img src="img/deve_2.jpg" class="overview-img" />

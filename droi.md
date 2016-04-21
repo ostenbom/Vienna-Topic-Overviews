@@ -60,15 +60,15 @@ In short, the Roma currently do not function as a part of society, yet due to th
 
 ## Key Actors
 
-###OSCE
+**OSCE**
 
 According to it’s [website](http://www.osce.org/what/roma), "The OSCE promotes the rights of Roma and Sinti through projects on political participation, education, housing, civil registration, combating racism and discrimination, and protecting the rights of displaced persons." Their main activities are the deployment of field missions, which try to combat discrimination, to educate about the Roma, their history and the Porajmos, and to provide education for the Roma themselves.
 
-###EU
+**EU**
 
 The role of the EU in this issue is quite limited. Education, health and culture are supportive [competences](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=URISERV%3Aai0020) of the EU, which means that policy is made at the National level or lower. However, the EU has decided these issues are a key point in its Roma inclusion programmes. Therefore, the EU supports the efforts of Member States through guidelines and centralising dialogue. A key part of this is the {% tooltip A summary of their last meeting and more information about their work can be found at <a href='http://ec.europa.eu/justice/events/roma-platform-2015/platformconclusions_en.htm#v'>http://ec.europa.eu/justice/events/roma-platform-2015/platformconclusions_en.htm#v</a> %}European Platform for Roma Inclusion{% endtooltip %}, which aims at creating a dialogue between the different stakeholders regarding effective Roma inclusion policy and its implementation.
 
-###International Romani Union
+**International Romani Union**
 
 Less than half a century ago, the Roma were unified by cultural similarity, but not united through any kind of organisation. Hence, the International Romani Union (IRU) was established in 1978 at the first World Romani Congress. According to it’s own [website](http://internationalromaniunion.org/about-us/), the IRU aims "to represent all Roma policy in the world (Roma, Sinti, lovara, kederara, xoraxane, romunge, etc.) and act for the best interests of the Roma nation". Most national Roma organisations and interest groups are to some extent related to this international organ, which currently has {% tooltip Albania, Australia, Austria, Belarus, Belgium, Bosnia-Herzegovina, Bulgaria, Brazil, Canada, Croatia, Czechia, Denmark, England, Estonia, Finland, France, Germany, Spain, Ireland, Kosovo, Latvia , Lithuania, Netherlands, Norway, Poland, Romania, Russia, Serbia, Slovakia, Slovenia, Sweden, Switzerland, and Ukraine %}34 Member States{% endtooltip %}. Until the 20th of March 2016, the President of the organisation was [Dorin Cioaba]([https://news.vice.com/article/an-audience-with-the-king-of-the-gypsies](https://news.vice.com/article/an-audience-with-the-king-of-the-gypsies)), who after his election crowned himself “King of Gypsies all over the World’. He has since been replaced by Zoran Dimov. Their [charter](http://internationalromaniunion.org/charter-ertf-roma-rights/) regarding the fundamental rights of the Roma provides some insight in who they consider themselves to be and which issues they consider to be most important regarding their acceptance into society as a “Nation” spread of various countries.
 
@@ -84,7 +84,7 @@ All these problems reinforce each other, which has led to the current situation.
 
 ## Measures in place
 
-###Action Plan OSCE
+### Action Plan OSCE
 
 The OSCE has developed an [action plan on improving the situation of the Roma and Sinti within the OSCE area](http://www.osce.org/odihr/17554), since 2003. This plan contains guidelines for Roma inclusion policies of Member States who while implementing the plan should always: "(1) respond to the real problems, needs and priorities of Roma and Sinti communities; (2) be comprehensive; (3) introduce a balanced and sustainable approach to combining human rights goals with social policies; and (4) maximize Roma ownership of the policies that affect them." Furthermore, it contains action plans and policies the OECD will enforce by itself through its subdivisions and {% tooltip More information on recent field work of the OSCE can be found at <a href='http://www.osce.org/stories/'>http://www.osce.org/stories/</a> %} field operations {% endtooltip %}. The core elements are:
 
@@ -108,11 +108,11 @@ The OSCE has developed an [action plan on improving the situation of the Roma an
 
 Ten years later, the OSCE wrote a [report](http://www.osce.org/odihr/107406) on the implementation of the action plan, which provides some insight in the effectiveness of policy.
 
-###EU framework and Member State programmes
+### EU framework and Member State programmes
 
 Similar to the OSCE, the Council of the European Union has written a [framework](http://register.consilium.europa.eu/doc/srv?l=EN&f=ST%2010658%202011%20INIT) for the actions Member States should take to combat Roma exclusion together. This framework stems from 2011, and focuses on four key areas: education, employment, health and housing. However, as stated previously, most competences and hence the responsibility to combat the problems related to Roma exclusion are with the Member States, and hence the EU itself can do but very little than recommend policies and keep track of progress. A report on the [implementation](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52015DC0299&from=FR) of the framework from 2015 does the latter for individual Member States. What the EU has also done is setting up the {% tooltip For a report on their last meeting see <a href='http://ec.europa.eu/justice/events/roma-platform-2015/files/romaplatform2015report_en.pdf'>http://ec.europa.eu/justice/events/roma-platform-2015/files/romaplatform2015report_en.pdf</a> %} European Platform for Roma Inclusion {% endtooltip %}, which plays a vital role in the facilitation of a dialogue between Member States, NGOs and various Roma organisations.
 
-###The Decade of Roma Inclusion
+### The Decade of Roma Inclusion
 
 [The Decade of Roma Inclusion](http://www.romadecade.org/), which ran from 2005 to 2015, was a cooperative effort between the {% tooltip Albania, Bosnia and Herzegovina, Bulgaria, Croatia, the Czech Republic, Hungary, Macedonia, Montenegro, Romania, Serbia, Slovakia and Spain %}ten European countries{% endtooltip %} with the greatest relative Roma population. Although focussing on the four aspects which policy makers often consider the greatest predicaments of the Romani population (health, education, employment and housing), and despite extensive efforts made by the participating countries to include the Roma into society, the project has been generally regarded as [unsuccesfull](http://www.romadecade.org/cms/upload/file/9809_file1_final-lostdecade.pdf). The main criticisms laid out in this paper are that the decade did not have clearly specified goals and that its failure merely served to put Roma inclusion higher on the European agenda, by showcasing the difficulty of solving the problem. It calls for the participating nations to put more effort into fighting the discrimination and exclusion.
 

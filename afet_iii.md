@@ -73,13 +73,13 @@ The Organisation for Security and Co-operation in Europe actually comprises of 5
 
 The options for physical action against between ISIS is understood best when contextualised with the following ideological conflicts and realities on the ground:
 
-**The appetite for international military intervention vs its necessity**
+### The appetite for international military intervention vs its necessity
 
 One of the critical impasses in international responses to ISIS is balancing the need for military action with the lessons of failed intervention in the Middle East. Current airstrikes have checked ISIS, but it will not destroy the group. The history of bombing campaigns not only show that civilian casualties are virtually inevitable, but that even unprecedented scale cannot guarantee results - the {% tooltip The Atlantic (2013) What the U.S. Bombing of Cambodia Tells Us About Obama's Drone Campaign <a href='http://www.theatlantic.com/international/archive/2013/02/what-the-us-bombing-of-cambodia-tells-us-about-obamas-drone-campaign/273142/'>http://www.theatlantic.com/international/archive/2013/02/what-the-us-bombing-of-cambodia-tells-us-about-obamas-drone-campaign/273142/</a> %} US Cambodian campaign in the late 60’s is testament to this{% endtooltip %}.
 
 Yet protracted land campaigns in Iraq and Afghanistan cost the lives of thousands of soldiers and still didn’t deliver lasting security. Poor post-war planning and sectarian violence in Iraq fuelled the rise of ISIS itself, and the {% tooltip  CNN (2016) Anger as Afghan troops pull out of parts of Helmand province <a href='http://edition.cnn.com/2016/02/22/asia/afghanistan-helmand-military/index.html'>http://edition.cnn.com/2016/02/22/asia/afghanistan-helmand-military/index.html</a> %} Taliban have gained much of the ground fought for in Afghanistan{% endtooltip %}. More recently, Barack Obama has admitted that the {% tooltip  BBC News (2016) President Obama: Libya aftermath 'worst mistake' of presidency <a href='http://www.bbc.co.uk/news/world-us-canada-36013703'>http://www.bbc.co.uk/news/world-us-canada-36013703</a> %} failure to plan for a post-Gaddafi Libya was the biggest mistake of his presidency{% endtooltip %}. With ISIS growing in the power vacuum of Libya, there is a stark reminder of the complexity, and difficulty, of military intervention.
 
-**Balancing International interests**
+### Balancing International interests
 
 The second key conflict to remember is the inherent need to coordinate an international response to the ISIS threat that reflects the number of competing national and international interests in the region.
 

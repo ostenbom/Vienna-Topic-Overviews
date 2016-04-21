@@ -113,7 +113,7 @@ The majority of Member States have identified the Human Papillomavirus (HPV) as 
 
 ## Links for Further Research
 
-**Official data:**
+*Official data:*
 
 * The list of articles covering the key aspects of reproductive and sexual health in Europe: [https://epthinktank.eu/2013/01/19/sexual-and-reproductive-health-and-rights/](https://epthinktank.eu/2013/01/19/sexual-and-reproductive-health-and-rights/)
 
@@ -121,7 +121,7 @@ The majority of Member States have identified the Human Papillomavirus (HPV) as 
 
 * UNFPA’s report on the most vulnerable groups such as IDPs and what issues they face: [http://eeca.unfpa.org/sites/default/files/pub-pdf/vulnerable%20groups%20book_0.pdf](http://eeca.unfpa.org/sites/default/files/pub-pdf/vulnerable%20groups%20book_0.pdf)
 
-**Opinion pieces:**
+*Opinion pieces:*
 
 * Animated video explaining the current status and main arguments related to SRHR: [https://www.youtube.com/watch?v=MJyL-v8ZpfA](https://www.youtube.com/watch?v=MJyL-v8ZpfA)
 

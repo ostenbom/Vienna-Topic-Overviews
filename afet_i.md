@@ -12,7 +12,7 @@ topic: |
 
 ## Relevance and Explanation of the Issue
 
-*"A decade of internecine war in the region had left behind not only a terrible legacy of human losses and material destruction, but also an unprecedented level of traumatization among the population at large, which contributed to a widespread and generalized sense of victimhood on all sides of the conflict.“* -  {% tooltip Regional Dealing with the Past Advisor, Human Security Division, Swiss FDFA <a href='http://www.osce.org/sg/91622'>http://www.osce.org/sg/91622</a> %}Jonathan Sisson{% endtooltip %}
+*"A decade of internecine war in the region had left behind not only a terrible legacy of human losses and material destruction, but also an unprecedented level of traumatization among the population at large, which contributed to a widespread and generalized sense of victimhood on all sides of the conflict.“* -  **{% tooltip Regional Dealing with the Past Advisor, Human Security Division, Swiss FDFA <a href='http://www.osce.org/sg/91622'>http://www.osce.org/sg/91622</a> %}Jonathan Sisson{% endtooltip %}**
 
 As of October 27th, 2015, all Western Balkan States have signed a {%  tooltip SAAs are part of the EU Stabilisation and Association Process(SAP) and European Neighbourhood Policy (ENP) that regulate free trade among the EU and third countries %}Stabilization and Association Agreement (SAA){% endtooltip %} with the European Union (EU). The latest state to enter the Stabilization and Association Process (SAP) was {% tooltip Kosovo declared its independence as a state in 2008, supported by UN Security Council Resolution 1244/99 <a href='http://www.nato.int/kosovo/docu/u990610a.htm'>http://www.nato.int/kosovo/docu/u990610a.htm</a> and the International Court of Justice Opinion on the Kosovo declaration of independence (<a href='http://www.internationallawobserver.eu/2010/07/22/the-icjs-advisory-opinion-is-in-favor-of-kosovo/'>http://www.internationallawobserver.eu/2010/07/22/the-icjs-advisory-opinion-is-in-favor-of-kosovo/)</a>. Kosovo's independence is not recognised by 82 UN Member Countries, including 5 EU Member States. %}Kosovo{% endtooltip %} in April 2016. The EU considers the action of closer integration with the Western Balkans as aligned with the vision of
 
@@ -24,23 +24,23 @@ The wars that took place during the years of dissolution of {% tooltip SFRY is t
 
 ## Key Questions
 
-How can the local government representatives be more effectively involved in conflict reconciliation?
+* How can the local government representatives be more effectively involved in conflict reconciliation?
 
-How should international bodies react to the conflicting views of citizens of Western Balkans?
+* How should international bodies react to the conflicting views of citizens of Western Balkans?
 
-How should the scandal with the {% tooltip Further information <a href='http://www.theguardian.com/world/2016/mar/21/student-dorm-named-after-war-crimes-suspect-radovan-karadzic'>http://www.theguardian.com/world/2016/mar/21/student-dorm-named-after-war-crimes-suspect-radovan-karadzic</a> %}Bosnian dorm being named{% endtooltip %}after Radovan Karadžić right after he was sentenced by ICTY be addressed?
+* How should the scandal with the {% tooltip Further information <a href='http://www.theguardian.com/world/2016/mar/21/student-dorm-named-after-war-crimes-suspect-radovan-karadzic'>http://www.theguardian.com/world/2016/mar/21/student-dorm-named-after-war-crimes-suspect-radovan-karadzic</a> %}Bosnian dorm being named{% endtooltip %}after Radovan Karadžić right after he was sentenced by ICTY be addressed?
 
-What can be done to more actively involve general citizens in the dialogue towards reconciliation?
+* What can be done to more actively involve general citizens in the dialogue towards reconciliation?
 
-Should there be a common and coherent approach to the issue among international and local actors? If so, how can it be obtained?
+* Should there be a common and coherent approach to the issue among international and local actors? If so, how can it be obtained?
 
-How should the topic of Balkan wars be addressed in educational institutions?
+* How should the topic of Balkan wars be addressed in educational institutions?
 
 ## Key Facts & Figures
 
 * The SAP begun in June 1999, and continued at Thessaloniki Summit in 2003.
 
-* The SAP includes the following measures: ; {% tooltip As stated at <a href='http://ec.europa.eu/enlargement/policy/glossary/terms/sap_en.htm'>http://ec.europa.eu/enlargement/policy/glossary/terms/sap_en.htm</a> %}bilateral SSAs, trade relations, financial assistance and regional cooperation{% endtooltip %}
+* The SAP includes the following measures: {% tooltip As stated at <a href='http://ec.europa.eu/enlargement/policy/glossary/terms/sap_en.htm'>http://ec.europa.eu/enlargement/policy/glossary/terms/sap_en.htm</a> %}bilateral SSAs, trade relations, financial assistance and regional cooperation{% endtooltip %}
 
 * As of April 2016, the ICTY has indicted 161 individuals, sentencing 80.
 
@@ -75,7 +75,7 @@ As shown in Table 1, the main remaining areas for dispute between former Yugosla
 
 In the aftermath of the conflict, a huge amount of Yugoslav people fled from their homes, becoming refugees in other Yugoslav states. Their integration was not so successful, for instance, Serbs who fled to Croatia in beginning of 1990s only managed to obtain Croatian citizenship in the 2000s. Another problematic identity group are Roma people that had citizenship of Yugoslavia, yet after the breakup of the country, they have no prospects of obtaining new passports, leaving them stateless. Moreover, {% tooltip Further information:<a href='http://www.statelessness.eu/blog/victory-slovenias-erased-citizens-european-court-human-rights'>http://www.statelessness.eu/blog/victory-slovenias-erased-citizens-european-court-human-rights</a> %}Slovenia was recently condemned by the European Court on Human Rights{% endtooltip %} for erasing more than 25,000 people from their application for citizenship, turning former Slovenian citizens into stateless people overnight.
 
-**Internationalisation of** {% tooltip International Centre for Transitional Justice defines the concept as follows: '... (it) refers to the set of judicial and non-judicial measures that have been implemented by different countries in order to redress the legacies of massive human rights abuses. These measures include criminal prosecutions, truth commissions, reparations programs, and various kinds of institutional reforms.' Retrieved from<a href='https://www.ictj.org/about/transitional-justice'>https://www.ictj.org/about/transitional-justice</a> %}Transitional Justice{% endtooltip %}**
+**Internationalisation of {% tooltip International Centre for Transitional Justice defines the concept as follows: '... (it) refers to the set of judicial and non-judicial measures that have been implemented by different countries in order to redress the legacies of massive human rights abuses. These measures include criminal prosecutions, truth commissions, reparations programs, and various kinds of institutional reforms.' Retrieved from<a href='https://www.ictj.org/about/transitional-justice'>https://www.ictj.org/about/transitional-justice</a> %}Transitional Justice{% endtooltip %}**
 
 The entrance of international actors on the Balkan scene was identified as "the most promising incentive for the enhancement of post-conflict reconciliation in the region" {% tooltip Rupnik, J. ‘Les Balkans et la Pax Europea’. In Les Banlieues de l'Europe. Les Politiques de Voisinage de l'Union Européenne, ed. J. Rupnik, 127-149. Paris: Presses de Sciences Po, 2007. %}(Rupnik, 2007){% endtooltip %}. With the ICTY taking the lead in prosecuting war criminals, the EU fostering the SAP in the region and starting initiatives like EULEX, most, if not all, transitional justice processes in Western Balkans are handled by foreign stakeholders. However, the ICTY is {% tooltip Further information <a href='http://www.balkaninsight.com/en/article/un-debate-turns-as-criticism-of-the-icty'>http://www.balkaninsight.com/en/article/un-debate-turns-as-criticism-of-the-icty</a> %} widely perceived as unfair, partial and subjective by people in the former Yugoslavia{% endtooltip %} . {% tooltip Further information <a href='http://www.b92.net/eng/news/crimes.php?yyyy=2015&mm=04&dd=15&nav_id=93806'>http://www.b92.net/eng/news/crimes.php?yyyy=2015&mm=04&dd=15&nav_id=93806</a> , <a href='http://www.economist.com/news/europe/21632598-eus-mission-kosovo-ensnared-corruption-claims-small-balkan-scandal'>http://www.economist.com/news/europe/21632598-eus-mission-kosovo-ensnared-corruption-claims-small-balkan-scandal</a> %} Furthermore, EULEX was investigated in a number of corruption trials{% endtooltip %}. International attempts to handle local problems might seem effective from an international perspective, while remaining actively questioned and mistrusted from a local standpoint.
 
@@ -110,22 +110,22 @@ Reparations to victims of war conflicts may be in form of financial compensation
 
 ## Links for Further Research
 
-<a href='http://www.icty.org/en/about/what-former-yugoslavia'>http://www.icty.org/en/about/what-former-yugoslavia</a> What is the former Yugoslavia? The article focuses on shortly explaining the history of formation of Yugoslavia and the different names of the country.
+* <a href='http://www.icty.org/en/about/what-former-yugoslavia'>http://www.icty.org/en/about/what-former-yugoslavia</a> What is the former Yugoslavia? The article focuses on shortly explaining the history of formation of Yugoslavia and the different names of the country.
 
-<a href='http://www.icty.org/en/about/what-former-yugoslavia/conflicts'>http://www.icty.org/en/about/what-former-yugoslavia/conflicts</a> Breakdown of Conflicts in Yugoslavia by country.
+* <a href='http://www.icty.org/en/about/what-former-yugoslavia/conflicts'>http://www.icty.org/en/about/what-former-yugoslavia/conflicts</a> Breakdown of Conflicts in Yugoslavia by country.
 
-<a href='http://news.bbc.co.uk/2/hi/europe/1420133.stm'>http://news.bbc.co.uk/2/hi/europe/1420133.stm</a> What is a War Crime?
+* <a href='http://news.bbc.co.uk/2/hi/europe/1420133.stm'>http://news.bbc.co.uk/2/hi/europe/1420133.stm</a> What is a War Crime?
 
-<a href='http://www.balkaninsight.com/en/balkan-transitional-justice/what-is-transitional-justice'>http://www.balkaninsight.com/en/balkan-transitional-justice/what-is-transitional-justice</a> What is Transitional Justice? The article gives definition to traditional justice, at the same time providing context for transitional justice processes in Yugoslavia.
+* <a href='http://www.balkaninsight.com/en/balkan-transitional-justice/what-is-transitional-justice'>http://www.balkaninsight.com/en/balkan-transitional-justice/what-is-transitional-justice</a> What is Transitional Justice? The article gives definition to traditional justice, at the same time providing context for transitional justice processes in Yugoslavia.
 
-<a href='https://www.icrc.org/customary-ihl/eng/docs/home'>https://www.icrc.org/customary-ihl/eng/docs/home</a> Database of International Committee of the Red Cross (ICRC) with Geneva Conventions and useful sources on Humanitarian International Law.
+* <a href='https://www.icrc.org/customary-ihl/eng/docs/home'>https://www.icrc.org/customary-ihl/eng/docs/home</a> Database of International Committee of the Red Cross (ICRC) with Geneva Conventions and useful sources on Humanitarian International Law.
 
-<a href='https://www.icrc.org/eng/war-and-law/treaties-customary-law/customary-law/overview-customary-law.htm'>https://www.icrc.org/eng/war-and-law/treaties-customary-law/customary-law/overview-customary-law.htm</a> ICRC’s article defining Customary International Law
+* <a href='https://www.icrc.org/eng/war-and-law/treaties-customary-law/customary-law/overview-customary-law.htm'>https://www.icrc.org/eng/war-and-law/treaties-customary-law/customary-law/overview-customary-law.htm</a> ICRC’s article defining Customary International Law
 
-<a href='http://www.ecmi.de/fileadmin/downloads/publications/JEMIE/2012/Petricusic.pdf'>http://www.ecmi.de/fileadmin/downloads/publications/JEMIE/2012/Petricusic.pdf</a> Reconciliation in the Western Balkans: New Perspectives and Proposals. A short overview of latest studies of reconciliation processes in the region.
+* <a href='http://www.ecmi.de/fileadmin/downloads/publications/JEMIE/2012/Petricusic.pdf'>http://www.ecmi.de/fileadmin/downloads/publications/JEMIE/2012/Petricusic.pdf</a> Reconciliation in the Western Balkans: New Perspectives and Proposals. A short overview of latest studies of reconciliation processes in the region.
 
-<a href='http://www.balkaninsight.com/en/article/how-will-special-kosovo-court-work--08-05-2015'>http://www.balkaninsight.com/en/article/how-will-special-kosovo-court-work--08-05-2015</a> An Article explains working procedures of Kosovo’s New War Court
+* <a href='http://www.balkaninsight.com/en/article/how-will-special-kosovo-court-work--08-05-2015'>http://www.balkaninsight.com/en/article/how-will-special-kosovo-court-work--08-05-2015</a> An Article explains working procedures of Kosovo’s New War Court
 
-<a href='http://www.eulex-kosovo.eu/?page=2,13,44'>http://www.eulex-kosovo.eu/?page=2,13,44</a> Video: What does EULEX do in Kosovo?
+* <a href='http://www.eulex-kosovo.eu/?page=2,13,44'>http://www.eulex-kosovo.eu/?page=2,13,44</a> Video: What does EULEX do in Kosovo?
 
-<a href='http://www.balkaninsight.com/en/article/some-balkan-citizens-count-for-less-than-zero'>http://www.balkaninsight.com/en/article/some-balkan-citizens-count-for-less-than-zero</a> Citizenship and Identity in the Western Balkans: Some Balkan ‘Citizens’ Count for Less Than Zero. The article deals with the topic of national identity in Western Balkans.
+* <a href='http://www.balkaninsight.com/en/article/some-balkan-citizens-count-for-less-than-zero'>http://www.balkaninsight.com/en/article/some-balkan-citizens-count-for-less-than-zero</a> Citizenship and Identity in the Western Balkans: Some Balkan ‘Citizens’ Count for Less Than Zero. The article deals with the topic of national identity in Western Balkans.

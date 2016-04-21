@@ -83,22 +83,12 @@ The {% tooltip  Institute for Security Studies (2005). Petersberg tasks, and mis
 
 ## Links for Further Research
 
-Centre for European Policy Studies (2015). More Union in European Defence. Retrieved from:
+* Centre for European Policy Studies (2015). More Union in European Defence. Retrieved from: [https://www.ceps.eu/system/files/TFonEuropeanDefence.pdf](https://www.ceps.eu/system/files/TFonEuropeanDefence.pdf)
 
-[https://www.ceps.eu/system/files/TFonEuropeanDefence.pdf](https://www.ceps.eu/system/files/TFonEuropeanDefence.pdf)
+* European Political Strategy Centre (2015). In defence of Europe: Defence Integration as a Response to Europe’s Strategic Moment. Retrieved from: [http://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdfhttp://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdf](http://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdfhttp://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdf)
 
-European Political Strategy Centre (2015). In defence of Europe: Defence Integration as a Response to Europe’s Strategic Moment. Retrieved from:
+* European Parliamentary Research Service (2015). European defence cooperation. Retrieved from: [http://www.europarl.europa.eu/RegData/etudes/BRIE/2015/551346/EPRS_BRI(2015)551346_EN.pdf](http://www.europarl.europa.eu/RegData/etudes/BRIE/2015/551346/EPRS_BRI(2015)551346_EN.pdf)
 
-[http://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdfhttp://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdf](http://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdfhttp://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdf)
+* Madariaga - College of Europe Foundation (2010). Is Permanent Structured Cooperation a Workable Way Towards EU Defence? Retrieved from: [http://www.madariaga.org/images/madariagareports/2010-dec-6-ispescoaworkablewaytowardseudefence.pdf](http://www.madariaga.org/images/madariagareports/2010-dec-6-ispescoaworkablewaytowardseudefence.pdf)
 
-European Parliamentary Research Service (2015). European defence cooperation. Retrieved from:
-
-[http://www.europarl.europa.eu/RegData/etudes/BRIE/2015/551346/EPRS_BRI(2015)551346_EN.pdf](http://www.europarl.europa.eu/RegData/etudes/BRIE/2015/551346/EPRS_BRI(2015)551346_EN.pdf)
-
-Madariaga - College of Europe Foundation (2010). Is Permanent Structured Cooperation a Workable Way Towards EU Defence? Retrieved from:
-
-[http://www.madariaga.org/images/madariagareports/2010-dec-6-ispescoaworkablewaytowardseudefence.pdf](http://www.madariaga.org/images/madariagareports/2010-dec-6-ispescoaworkablewaytowardseudefence.pdf)
-
-German Institute for International and Security Affairs (2013). How to maintain hard capabilities in times of budget cuts. Retrieved from:
-
-[http://www.institutdelors.eu/media/tgae20117eondarza.pdf?pdf=ok](http://www.institutdelors.eu/media/tgae20117eondarza.pdf?pdf=ok)
+* German Institute for International and Security Affairs (2013). How to maintain hard capabilities in times of budget cuts. Retrieved from: [http://www.institutdelors.eu/media/tgae20117eondarza.pdf?pdf=ok](http://www.institutdelors.eu/media/tgae20117eondarza.pdf?pdf=ok)

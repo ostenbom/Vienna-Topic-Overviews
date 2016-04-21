@@ -46,23 +46,23 @@ It should be noted that when analysing current conflicts, a centerpiece of moder
 
 ## Key Actors
 
-### The European Union (EU)
+**The European Union (EU)**
 
 Even though, apart from Baltic States and Poland, Member States are not extremely concerned by Russian foreign policy developments, the EU plays a vital role in this issue. The EU has no direct influence over Russia, however the EU has control over the common market and thus can introduce restrictive measures - sanctions. Together with the United States the EU imposed {% tooltip An overview of sanctions imposed can be found here: <a href='https://www.reedsmith.com/files/Publication/9221cf81-e4f7-4907-ab2c-f7dc249eac58/Presentation/PublicationAttachment/441e0ec9-dbd8-4c3a-b1fa-0bf7ed4d5872/alert_14-255.pdf'>https://www.reedsmith.com/files/Publication/9221cf81-e4f7-4907-ab2c-f7dc249eac58/Presentation/PublicationAttachment/441e0ec9-dbd8-4c3a-b1fa-0bf7ed4d5872/alert_14-255.pdf</a> %}sanctions{% endtooltip %} that focused on Russia's key defense, energy, and financial service sectors and together with severe drop of oil prices resulted in 2014 - 2015 Financial Crisis in Russia.
 
-### Organization for Security and Co-operation in Europe (OSCE)
+**Organization for Security and Co-operation in Europe (OSCE)**
 
 The world's largest security-oriented intergovernmental organization that has a comprehensive approach to security that encompasses politico-military and economic aspects. Some of the areas that OSCE focuses are border management, conflict prevention and resolution, economic activities and democratization. Decisions are made by finding a consensus and are not legally binding.
 
-### United Nations Security Council (UNSC)
+**United Nations Security Council (UNSC)**
 
 Under the Charter of United Nations its primary responsibility is for the maintenance of international peace and security. The Security Council consists of 15 Members five of them (China, France, Russia, United Kingdom and United States) are permanent and have the power to veto any resolution. The Council has the power to take military action against an aggressor, call on Members to apply economic sanctions and other measures not involving the use of force to prevent or stop aggression and more.  
 
-### North Atlantic Treaty Organisation (NATO)
+**North Atlantic Treaty Organisation (NATO)**
 
 A political and military alliance consisting of 28 Member States with the purpose to safeguard the freedom and security of its members through political and military means. {% tooltip Article 5: 'an armed attack against one or more of them in Europe or North America shall be considered an attack against all of them'. Full treaty can be found here: <a href='http://www.nato.int/cps/en/natolive/official_texts_17120.htm'>http://www.nato.int/cps/en/natolive/official_texts_17120.htm</a> %}The article 5 of Washington Treaty{% endtooltip %} is currently of great importance to the Baltic States - it is a safeguard measure and a promise of assistance should any threat to their sovereignty occur.
 
-### National Governments
+**National Governments**
 
 Even with all the supranational organisations, the national governments of affected countries are still the main stakeholders in the issue. It is up to Ukraine, Georgia and others to take measures regarding their national security.
 
