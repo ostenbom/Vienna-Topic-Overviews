@@ -37,11 +37,11 @@ Overview of military spending in the EU and the world’s six biggest spenders b
 <img src="img/sede_ii_1.png" class="overview-img" />
 <br>
 
-*Source: [European Political Strategy Centre (2015). In defence of Europe: Defence Integration as a Response to Europe’s Strategic Moment.](http://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdfhttp://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdf)*
+*Source: [European Political Strategy Centre (2015). In defence of Europe: Defence Integration as a Response to Europe’s Strategic Moment.](http://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdf)*
 
 * Between 2005 and 2015 only two Member States increased military spending as share of GDP: Estonia (+7 %) and Poland (+14 %). {% tooltip  Stockholm International Peace Research Institute (SIPRI) (2016). Military expenditure by country as percentage of gross domestic product, 1988-2015. Retrieved from: <a href='http://www.sipri.org/media/website-photos/sipri-milex-data-1988-2015'>http://www.sipri.org/media/website-photos/sipri-milex-data-1988-2015</a> %} In comparison, Russia increased its military spending as share of GDP by 51 % during the same period. {% endtooltip %}
 
-* 15 % of defence equipment procurement costs in Member States were related to European collaborations in 2013. {% tooltip  European Political Strategy Centre (2015). In defence of Europe: Defence Integration as a Response to Europe’s Strategic Moment. Retrieved from: <a href='http://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdfhttp://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdf'>http://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdfhttp://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdf</a>
+* 15 % of defence equipment procurement costs in Member States were related to European collaborations in 2013. {% tooltip  European Political Strategy Centre (2015). In defence of Europe: Defence Integration as a Response to Europe’s Strategic Moment. Retrieved from: <a href='http://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdf'>http://ec.europa.eu/epsc/pdf/publications/strategic_note_issue_4.pdf</a>
  %} The same share for defence research and technology costs was 8 %.{% endtooltip %}
 
 * Six EU Member States not members of NATO: Austria, Cyprus, Finland, Sweden, Ireland and Malta. Similarly, six NATO members are not members of the EU: The United States, Canada, Norway, Turkey, Iceland, and Albania.
