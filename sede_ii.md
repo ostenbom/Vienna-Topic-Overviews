@@ -2,7 +2,7 @@
 layout: overview
 image: SEDE_II.jpg
 title: SEDE II
-description: Post conflict transformations in Balkan countries
+description: Military Cooperation and Integration
 committee: The Committee on Security and Defence II (SEDE II)
 author: Nicklas Kövamees (SE)
 author_image: Nicklas.jpg
